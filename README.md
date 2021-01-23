@@ -1,6 +1,8 @@
 # Barra de percentual de leitura
 Script que implementa uma barra de no topo do site, que permite identificar a porcentagem de leitura do conteúdo.
 
+![Progress bar](https://lh3.googleusercontent.com/qEtjSsT5WXF1aMQc5LG5Qoc_RvA1_RDDFNnmmmEZUuntP_CZ1gptVdXJrhmqTNtGNcmGZIylHq5QHSKukvE5uGDrmg0nEam5lt3z_qunIEAOCPjUiZBhQnt1DwrJH2BLS_MmVJtXGyZafjHk8wpg9MgkC6-NhUY_hdTI9uwf56adcdpKsnpdkVC8LpVLEFrbX_skriETbnZ17bkg8Ouv08BpITQ_hr1tX9vUGhhM1ZpGJ_aevmFA0iZaQNINHE9N73VJHj1FQEtqosZL-Dp4yEz-JuCyeYPvRSjhrx4WAiz1k7c8A_HZ8D5R0sc5c7LAjMC69QnxuGfzd_zdI3k2yQh6vR31mfOF9zP6MoPZNxqhfwyQPzz9WvpLP7huJWe7xTY5JHICg3HrlnzXh9iq5ooBhljWYknhIxobdPu29YGtHlVmVZbD7HWsSFiQe1d6g2fsdy7-WjJC2t8tOlHQpgPCDiihjhOyKzS7KirpU9518VpHTuIFIbZ966injVZRkBESNLrSFBElhG-lR6sbEZMCGnXXdB4GZW581HFcrBC_FCMV_9BvdanPGmcEZAuAxWvTgjKGrwMsjGyIuPenyd6UHS7AAWSYLYfteHjm8eF85goqYUmy1r3NxRKf8g3H-3X5Xmq45DZd_vLU7xa6LfagDZ8Iw12hVBgjwQVaAJsmipGTMVYO3w7Ddm8_HA=w328-h305-no?authuser=0)
+
 **Para usar só precisa baixar o script e definir o atributo que está sendo usado para definir o conteúdo no seu html.**
 ```javascript
 const content = document.querySelector("div.content"); 
